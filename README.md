@@ -7,10 +7,10 @@ Sou um desenvolvedor BackEnd, Power Platform e Autodidata!
 
 #### Tecnologias que uso no dia a dia
 
-<code><img height="30" alt="pyhton" src="https://img.icons8.com/?size=256&id=13441&format=png"></code>
-<code><img height="30" alt="C" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"></code>
-<code><img height="30" alt="Csharp" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png"></code>
-<code><img height="30" alt="SQL" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"></code>
+<code><img height="43" alt="pyhton" src="https://img.icons8.com/?size=256&id=13441&format=png"></code>
+<code><img height="43" alt="C" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png"></code>
+<code><img height="43" alt="Csharp" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png"></code>
+<code><img height="43" alt="SQL" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"></code>
 
 <code><img height="30" alt="Azure" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/azure-icon.png"></code>
 <code><img height="30" alt="Power Apps" src="https://img.icons8.com/?size=256&id=jXuZmZPUKCPS&format=png"></code>
